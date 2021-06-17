@@ -1,0 +1,2 @@
+# BlogsPageMOBILE
+Created with CodeSandbox
